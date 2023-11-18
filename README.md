@@ -1,5 +1,8 @@
 # Prototype 2
 
+### Playable Build
+If you just want to play the game without cloning the repo you do so here: https://aaronbruno.github.io/Prototype-2/docs/?Prototype-2
+
 ### First Time
 - clone repo
 - install npm if not already installed 
